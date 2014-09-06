@@ -1,0 +1,13 @@
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\DocExport.exe
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\DocExport.pdb
+C:\Users\ora\Desktop\DocExport\DocExport\obj\x86\Debug\DocExport.Form1.resources
+C:\Users\ora\Desktop\DocExport\DocExport\obj\x86\Debug\DocExport.Properties.Resources.resources
+C:\Users\ora\Desktop\DocExport\DocExport\obj\x86\Debug\DocExport.csproj.GenerateResource.Cache
+C:\Users\ora\Desktop\DocExport\DocExport\obj\x86\Debug\DocExport.exe
+C:\Users\ora\Desktop\DocExport\DocExport\obj\x86\Debug\DocExport.pdb
+C:\Users\ora\Desktop\DocExport\DocExport\obj\x86\Debug\DocExport.csprojResolveAssemblyReference.cache
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\DocExport.exe.config
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\Spire.DataExport.dll
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\Spire.License.dll
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\ora\Desktop\DocExport\DocExport\bin\Debug\Spire.DataExport.xml
